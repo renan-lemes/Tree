@@ -4,7 +4,7 @@
 * Red Black
 * Enária
 
-## Ideia implementar as árvores para fins didaticos.
+## Ideia principal é implementar as árvores para fins didáticos.
 
 # Autor.
 Renan Lemes Leepkaln
