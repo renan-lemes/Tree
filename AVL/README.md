@@ -7,3 +7,6 @@ alcançado um custo de algoritmo com o tempo de pesquisa tendendo a log n.
 ## Definição 
 Uma árvore binária T é denominada AVL quando, para qualquer nó de T, as alturas de suas duas subárvores, esquerda e direita, diferem em módulo de 
 até uma unidade.
+* Exemplo:
+
+![img](https://1.bp.blogspot.com/-tQzL7-2C8Jg/W4VIRSjspPI/AAAAAAAAEdw/QilAm-RIFb4cqVZEhhZlCUj32XntkP_GwCK4BGAYYCw/s400/ar1.png)
