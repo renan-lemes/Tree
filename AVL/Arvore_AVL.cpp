@@ -69,7 +69,7 @@ PONT BuscaNo(PONT raiz,TipoChave ch,PONT *pai){
 }
 
 PONT Excluir(TipoChave ch, PONT raiz){
-	PONT pai,no,p,q; //estruturas auxiliares pra remoção//
+	PONT pai,no,p,q; //estruturas auxiliares pra remoï¿½ï¿½o//
 	no = BuscaNo(raiz,ch,&pai); //pre det
 	if(no==NULL)
 		return (raiz);
@@ -202,7 +202,7 @@ PONT Rotacao_Esquerda(PONT r){
 };
 
 
- //rotaçoes duplas // 
+ //rotaï¿½oes duplas // 
 PONT Rotacao_Dir_Esq(PONT r){
 	r->esq = Rotacao_Esquerda(r->esq);
 	return (Rotacao_Direita(r));
