@@ -1,4 +1,4 @@
-# Tipos de árvores:
+# Tipos de árvores ☘:
 * Binária
 * AVL
 * Red Black
